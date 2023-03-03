@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SabliJr/falconce/static/css/main.c2acccd8.css",
+    "main.js": "/SabliJr/falconce/static/js/main.e10aed73.js",
+    "index.html": "/SabliJr/falconce/index.html",
+    "main.c2acccd8.css.map": "/SabliJr/falconce/static/css/main.c2acccd8.css.map",
+    "main.e10aed73.js.map": "/SabliJr/falconce/static/js/main.e10aed73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2acccd8.css",
+    "static/js/main.e10aed73.js"
+  ]
+}
